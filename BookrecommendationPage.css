@@ -1,0 +1,48 @@
+* {
+    font-family: sans-serif;
+}
+h1 {
+    background-color: rgb(118, 199, 231);
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 40px;
+}
+section {
+    background-color: whitesmoke;
+    margin-left: 12%; 
+    border-radius: 10px;
+    margin-right: 12%;
+}
+div {
+    margin-bottom: 3%;
+    padding: 5px 5px 1px 5px;
+}
+.line{
+    padding:5% 60% 0% 35%;
+    border-width: 3px;
+    border-color: skyblue;
+    border-bottom-style:solid ;
+}
+#id {
+    font-size:xx-large;
+    color: skyblue;
+}
+#id1 {
+    color: rgb(118, 196, 226);
+    font-size: larger;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+#id2 {
+    font-style:italic  ;
+}
+footer {
+    background-color: rgb(95, 178, 210);
+    color: white;
+    text-align: center;
+    font-size: large;
+    padding-top: 20px ;
+    padding-bottom: 20px;
+}

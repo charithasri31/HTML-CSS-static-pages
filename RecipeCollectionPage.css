@@ -1,0 +1,43 @@
+* {
+    font-family: sans-serif;
+}
+h1 {
+        background-color: maroon;
+        text-align: center;
+        color: white;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        font-size: 40px;
+}
+h2 {
+        font-size:xx-large;
+        color: maroon;
+        margin-left: 3%;
+    }
+    footer {
+        background-color: maroon;
+        color: white;
+        text-align: center;
+        font-size: large;
+        padding-top: 20px ;
+        padding-bottom: 20px;
+    }
+section {
+    background-color: rgb(245, 245, 245);
+    margin-left: 12%; 
+    border-radius: 10px;
+    margin-right: 12%;
+}
+div {
+
+        margin-bottom: 3%;
+        padding: 5px 5px 1px 5px;
+    
+}
+h3 {
+    margin-left: 3%;
+    font-size: x-large;
+}
+li {
+    font-style: italic;
+}
